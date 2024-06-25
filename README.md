@@ -1,7 +1,8 @@
-## Hey 👋, This is ╰(*°▽°*)╯  Alfredo  Echague  ╰(*°▽°*)╯
+## Hey everyone! 👋 ╰(*°▽°*)╯  Alfredo  Echague  ╰(*°▽°*)╯ here 
 [![Gmail Badge](https://img.shields.io/badge/-a.j.echague@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.j.echague@gmail.com)](mailto:a.j.echague@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/alfredoechague/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/alfredoechague//)](https://www.linkedin.com/in/https://www.linkedin.com/in/alfredoechague//) [![Github Badge](https://img.shields.io/badge/-https://github.com/AEchague8191-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/AEchague8191/)](https://www.github.com/https://github.com/AEchague8191/) <p align='left'>Hello there  ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
+A bit about me... hmmm...
 I thrive on the art of storytelling and am known for my approachable nature. To me, every narrative, whether it unfolds in life or data, begins with a rich backstory waiting to be explored. And what better way to unravel these tales than through the lens of SQL and statistics?
 
 My journey into Business Intelligence (BI) Analysis ignited my passion for SQL, Python, Tableau, and Power BI. Through various projects, I've tackled real-world business challenges, using data to drive innovation and optimize outcomes.
